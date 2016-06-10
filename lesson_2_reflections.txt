@@ -1,0 +1,1 @@
+You need to initialize a repository in order to start using commits to that repository. Its basically creating a new repo.

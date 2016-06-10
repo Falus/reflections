@@ -1,0 +1,11 @@
+By Comparing the two different file versions I was able to spot what seemed liked an error in the version that wouldn't run due to a typo error.
+
+I know what changes I've done, I can restore builds to previous versions in case the current build isn't working, or if I simply need to revert to an older feature set for any reason.
+
+Git will have more meaningful changesets or versions in comparison to Google Docs, which will perform better as a backup compared to Git.
+
+Git is coding related while Google Docs doesn't anticipate relationships between files and is not meant for the most common use of multiple file commits, programming.
+
+By using git log to pick up commits and then using git diff to compare those commits.
+
+In case things don't workout, and your team is working on you with the same project, you know that they'll be capable of checking previous versions to see where the bugs or break were introduced.
