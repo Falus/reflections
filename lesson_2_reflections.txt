@@ -1,3 +1,13 @@
 You need to initialize a repository in order to start using commits to that repository. Its basically creating a new repo.
 
 The staging area simply allows you to decide on which files you want as part of that commit, which allows you to continue work before committing other files, even if you haven't already committed those files you've worked on.
+
+You can use the staging area to isolate logical changes per commit in the way stated in the previous line.
+
+Maintaining different release versions as different versions of the software itself. It also allows you to add new features to the base version of the code, check-in and have other people work on it, without messing up the main code.
+
+They just show you what commits where done on which branch.
+
+The point of merging is to get the fixes and features back into the original production branch, so we don't lose them later on in time.
+
+So you merge manually to make sure nothing gets screwed up.
